@@ -1,7 +1,8 @@
 html,
 body,
 #root,
-#App {
+#App,
+#Presentation {
   margin: 0;
   padding: 0;
   width: 100%;
