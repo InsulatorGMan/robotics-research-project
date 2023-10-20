@@ -1,7 +1,6 @@
 import {
   Tooltip,
   Typography,
-  TypographyPropsVariantOverrides,
 } from "@mui/material";
 
 interface TooltippedTextProps {

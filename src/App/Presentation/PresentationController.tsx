@@ -1,6 +1,5 @@
 import {
   ExpandMore,
-  FormatListBulleted,
   NavigateBeforeTwoTone,
   NavigateNextTwoTone,
 } from "@mui/icons-material";
