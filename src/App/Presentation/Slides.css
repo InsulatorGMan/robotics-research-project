@@ -1,0 +1,14 @@
+#Slide1_Image {
+    width: 20%;
+    height: 60%;
+    border-radius: 0;
+    position: absolute;
+    right: 0;
+    top: 30%;
+}
+
+#Slide1_Image img {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+}
